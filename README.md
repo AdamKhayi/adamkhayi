@@ -1,4 +1,4 @@
-<h1>Hi,  I'm Adam,  an <a href="https://linkedin.com/in/adam-khayi-71612a180/"> IT Professional </a> 😀</h1>
+<h1>Hi,  I'm Adam 😀</h1>
 
 <h2>👨‍💻 Information Technology Projects: </h2>
 
@@ -14,5 +14,5 @@
 
 [<img align="left" alt="Adam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
-[linkedin]: https://linkedin.com/in/adam-khayi-71612a180/
+[linkedin]: https://www.linkedin.com/in/adam-khayi-13834a2a0/
 
